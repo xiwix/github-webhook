@@ -1,9 +1,9 @@
 ---
 applications:
-- name: github-webhook-pavel
+- name: github-webhook
   services:
-    - github-rabbitmq-pavel
-    - github-eureka-pavel
+    - github-rabbitmq
+    - github-eureka
   env:
     SPRING_PROFILES_ACTIVE: cloud
     DEBUG: "true"
