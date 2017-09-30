@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.example.github</groupId>
-	<artifactId>github-webhook-pavel</artifactId>
+	<artifactId>github-webhook</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>github-webhook-pavel</name>
+	<name>github-webhook</name>
 	<description>GitHub WebHook Source</description>
 
 	<parent>
